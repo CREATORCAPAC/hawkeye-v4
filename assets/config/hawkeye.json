@@ -1,0 +1,10 @@
+{
+  "localhost": {
+    "ApiAddress" : "http://localhost/hawkeye/",
+    "CaptchaSiteKey": "6LdBFzwaAAAAAKOg6jrOAfPEOez08MA_1vanSNai"
+  },
+  "104.197.49.252": {
+    "ApiAddress" : "http://104.197.49.252/hawkeye/",
+    "CaptchaSiteKey": "6LcfcVwaAAAAAGIcOf2BYTQ9im1hIWd_zWPMV9EY"
+  } 
+}
